@@ -16,3 +16,12 @@ div {
     border: 2px solid black;
 }
 
+select {
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+}
